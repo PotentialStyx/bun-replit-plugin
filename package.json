@@ -1,0 +1,14 @@
+{
+  "name": "bun-replit-plugin",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@replit/crosis": "^13.2.0"
+  }
+}
